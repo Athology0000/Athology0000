@@ -1,6 +1,6 @@
 ### Welcome to my **profile** 
 
-![Discord](https://discord.c99.nl/widget/theme-4/973051184233463808.png))
+![Discord](https://discord.c99.nl/widget/theme-4/973051184233463808.png)
 
 ---
 
