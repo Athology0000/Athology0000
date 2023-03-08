@@ -1,16 +1,19 @@
-### Hi there 👋
+### Welcome to my **profile** 
 
-<!--
-**Athology0000/Athology0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Discord](https://discord.c99.nl/widget/theme-2/929445525374242836.png)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ❤ I love Python 
+- 💬 Ask me about anything related to Python
+- 📫 How to reach me : aeares#5114
+
+---
+
+### My status
+
+<img align="left" alt="ChickenDevs' Stats" src="https://github-readme-stats.vercel.app/api?username=Athology0000&count_private=true&show_icons=true&theme=radical">
+
+---
+### 📍 Profile Visitor Count
+<img align="left" alt="ChickenDevs' Stats" src="https://profile-counter.glitch.me/Athology0000/count.svg">
